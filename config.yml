@@ -1,0 +1,15 @@
+#yml for setting thresholds
+ 
+#type : Type of config
+type:
+    category: threshold
+    
+threshold:
+
+    toxic : 0.5
+    severe_toxic : 0.3
+    obscene : 0.5
+    threat : 0.5
+    insult : 0.5
+    identity_hate : 0.5
+    
